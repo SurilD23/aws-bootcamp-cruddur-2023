@@ -6,6 +6,8 @@ gp env HONEYCOMB_API_KEY="euHyKybCK7I5Jfad1FsCkI"
 export HONEYCOMB_SERVICE_NAME="Crudder"
 gp env HONEYCOMB_SERVICE_NAME="Crudder"
 
+I did get data in Honeycomb by using docker compose up -d
+
 - Application: Cruddur
 - Cohort: 2023-A1
 
