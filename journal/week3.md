@@ -16,3 +16,5 @@ Cognito and its security features were definitely tough to set up, it required r
 
 #### Updating the UI
 - [commit](https://github.com/SurilD23/aws-bootcamp-cruddur-2023/commit/0c3d4edbfc03c15ab578af3d8f53cb9fba925901)
+
+![Cruddur Screenshot](assets/cruddur-screenshot.png)
